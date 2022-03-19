@@ -1,0 +1,22 @@
+#first-section{
+    background-color: black;
+    height: 100%;
+}
+.title{
+    background-color: #ffc107 ;
+    border-radius: 10px;
+    padding: 5px;
+    color: white;
+    font-weight: bold;
+}
+.title:hover{
+    text-decoration: underline;
+}
+
+.container-fluid{
+    margin: auto;
+}
+.card{
+    float: left;
+    margin: 20px auto 20px auto;
+}
