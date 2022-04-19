@@ -84,7 +84,7 @@ body{
 
 .skills {
     position: relative;
-    
+
   }
   
   .skills .content1 {
@@ -108,9 +108,11 @@ body{
     font-family: ('Work Sans');
     
   }
-.fa{
-
-    font-size: 80px;
+.fa-brands{
+font-size: 40px;
+}
+.fa-solid{
+    font-size: 40px;
 }
 .skills .content2{
     position: absolute;
