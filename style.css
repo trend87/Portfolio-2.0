@@ -216,10 +216,7 @@ text-align: center;
   position: relative; 
     
   }
-  .fa{
 
-    font-size: 20px;
-}
   
   .skills .content1 {
     position: absolute;
@@ -281,7 +278,7 @@ text-align: center;
     background: rgb(137,207,240); 
     background: rgba(100,50,180, 0.8); 
     font-weight: bold;
-    font-size: 20px;
+    font-size: 13px;
     font-family: ('Work Sans');
 
 }
@@ -299,9 +296,12 @@ text-align: center;
     height: 250px;
     background: rgb(137,207,240); 
     background: rgba(216, 70 ,0, 0.8); 
-    font-size: 20px;
+    font-size: 13px;
     font-family: ('Work Sans');
 
+}
+.skills h1{
+    font-size: 25px;
 }
 
 } 
