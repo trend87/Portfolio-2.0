@@ -173,11 +173,13 @@ font-size: 40px;
 
 }
 .project-works{
-    /* height: 200px; */
-    /* width: 6000px; */
     margin: 0;
     padding: 0;
-    /* border: 8px solid red; */
+ 
+}
+.project-works img{
+    width: inherit;
+    height: 200px;
 }
 
 
