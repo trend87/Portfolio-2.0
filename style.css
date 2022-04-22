@@ -22,8 +22,6 @@ body{
 .container-fluid{
    padding: 0 10%;
   
-	
- 
 }
 .navbar{
     padding:20px 0 60px;
@@ -31,9 +29,15 @@ body{
 }
 .nav-item{
     padding: 0 16px;
-
 }
-
+html{
+    scroll-behavior: smooth;
+}
+#home, #about, #resume, #contact, #skills{
+    scroll-behavior: smooth;
+    overflow-y: hidden;
+    scroll-snap-type: y mandatory;
+}
 .description{
     padding-left: 15px;
     color: #cccccc;
