@@ -108,7 +108,6 @@ html{
     height: 300px;
     background: rgb(137,207,240); /* Fallback color */
     background: rgba(0, 105, 148, 0.7); /* Black background with 0.5 opacity */
-    font-weight: bold;
     font-size: 20px;
     font-family: ('Work Sans');
     
@@ -132,8 +131,7 @@ font-size: 40px;
     width: 500px;
     height: 300px;
     background: rgb(137,207,240); /* Fallback color */
-    background: rgba(0,216,0, 0.8); /* Black background with 0.5 opacity */
-    font-weight: bold;
+    background: rgba(21, 114, 26, 0.8); /* Black background with 0.5 opacity */
     font-size: 20px;
     font-family: ('Work Sans');
 
@@ -152,7 +150,6 @@ font-size: 40px;
     height: 300px;
     background: rgb(137,207,240); /* Fallback color */
     background: rgba(100,50,180, 0.8); /* Black background with 0.5 opacity */
-    font-weight: bold;
     font-size: 20px;
     font-family: ('Work Sans');
 
@@ -170,8 +167,7 @@ font-size: 40px;
     width: 500px;
     height: 300px;
     background: rgb(137,207,240); /* Fallback color */
-    background: rgba(216, 70 ,0, 0.8); /* Black background with 0.5 opacity */
-    font-weight: bold;
+    background: rgba(216, 0, 0, 0.8); /* Black background with 0.5 opacity */
     font-size: 20px;
     font-family: ('Work Sans');
 
@@ -247,8 +243,8 @@ text-align: center;
 
     width: 300px;
     height: 250px;
-    background: rgb(137,207,240); 
-    background: rgba(0, 105, 148, 0.7); 
+    /* background: rgb(137,207,240); 
+    background: rgba(0, 105, 148, 0.7);  */
     font-weight: bold;
     font-size: 13px;
     font-family: ('Work Sans');
@@ -270,8 +266,8 @@ text-align: center;
     margin: 20px;
     width: 300px;
     height: 250px;
-    background: rgb(137,207,240); 
-    background: rgba(0,216,0, 0.8); 
+    /* background: rgb(137,207,240); 
+    background: rgba(0,216,0, 0.8);  */
     font-weight: bold;
     font-size: 13px;
     font-family: ('Work Sans');
@@ -289,8 +285,8 @@ text-align: center;
     margin: 20px;
     width: 300px;
     height: 250px;
-    background: rgb(137,207,240); 
-    background: rgba(100,50,180, 0.8); 
+    /* background: rgb(137,207,240); 
+    background: rgba(100,50,180, 0.8);  */
     font-weight: bold;
     font-size: 13px;
     font-family: ('Work Sans');
@@ -308,8 +304,8 @@ text-align: center;
     margin: 20px;
     width: 300px;
     height: 250px;
-    background: rgb(137,207,240); 
-    background: rgba(216, 70 ,0, 0.8); 
+    /* background: rgb(137,207,240); 
+    background: rgba(216, 70 ,0, 0.8);  */
     font-size: 13px;
     font-family: ('Work Sans');
 
